@@ -9,9 +9,11 @@ A Simple bash-based system monitoring tool.
 - Log file genaration
 
 ## Installation
+```
 git clone https://github.com/YOUR-USERNAME/system-monitor.git
 cd system-monitor
 chmod +x monitor.sh
+```
 
 ## Usage 
 ./monitor.sh --interval 5
