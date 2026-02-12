@@ -10,7 +10,7 @@ A Simple bash-based system monitoring tool.
 
 ## Installation
 ```
-git clone https://github.com/YOUR-USERNAME/system-monitor.git
+git clone https://github.com/shamzy-zag/system-monitor.git
 cd system-monitor
 chmod +x monitor.sh
 ```
